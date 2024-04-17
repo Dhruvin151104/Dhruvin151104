@@ -24,7 +24,7 @@
 
 <h3 align="left">Socials</h3>
 <div>
-  <a href="https://linkedin.com/in/dhruvin savla"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="30px" /></a>
+  <a href="https://www.linkedin.com/in/dhruvin-savla-4991a1259/"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="30px" /></a>
 </div>
 
 
