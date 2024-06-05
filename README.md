@@ -1,21 +1,21 @@
-<h1 align="center">Hi , I'm Dhruvin Savla <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi , I'm Dhruvin Savla <img src="https://private-user-images.githubusercontent.com/74038190/241763891-7bb1e704-6026-48f9-8435-2f4d40101348.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTc1NzE1ODksIm5iZiI6MTcxNzU3MTI4OSwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjM4OTEtN2JiMWU3MDQtNjAyNi00OGY5LTg0MzUtMmY0ZDQwMTAxMzQ4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA2MDUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNjA1VDA3MDgwOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWE2YTc1ODFlM2U5ODZlZjViYmFiMDJkYTQzNTRiNzZiZDFmZTZhOTM0ZGUzNmI5MWU4ODVhZDZiYzRkZDZlOGYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.BZPjtU7RKkA6lboAWNvp2dXqmOkj73i6dOzmWReGhSI" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer;Computer+Science+Student;Competitive+Programmer;Expert+on+Codeforces;Always+learning+new+things"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=36BCF7FF&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer;Computer+Science+Student;Competitive+Programmer;Expert+on+Codeforces;Web+Developer;Always+learning+new+things"></a>
 </p>
 
 
 <br>
 
-
-
 	
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+<h3> <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 40px height="40px"></picture> About me </h3>
+ <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+ 
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 <br><br>
 
-- :University: I am a `Junior` in Computer Science & Engineering at [Nirma University](https://nirmauni.ac.in/).
+- 🏫: I am a `Junior` in Computer Science & Engineering at [Nirma University](https://nirmauni.ac.in/).
 - :technologist: I love using Software as a solution for every `Problem`.
 - :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
 - :student: I’m currently learning `Computer Science` and `Software Engineering`.
@@ -24,14 +24,36 @@
 <br>
 
 
-## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/competitive_programming_profile.png?raw=true" width=40> </picture> My Competitive Programming Profiles
+<h3> <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/competitive_programming_profile.png?raw=true" width = 40px "></picture> My Competitive Programming Profiles </h3>
+ <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
-<p align="center">
-  <a href="https://codeforces.com/profile/Dhruvin_Savla"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces"/></a>
-	<a href="https://leetcode.com/Dhruvin_Savla/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode"/></a>
-	<a href="https://www.codechef.com/users/danger_don_159"><img src="https://img.icons8.com/color/50/000000/codechef.png" alt="Code Chef"/></a>
+<br>
 
-## 🛠️ My Skills
+<details><summary><h3>Codeforces</h3></summary>
+
+----
+
+<a href="https://codeforces.com/profile/Dhruvin_Savla](https://leetcode.com/u/Dhruvin_Savla/">
+<img height="316" src="https://codeforces-readme-stats.vercel.app/api/card?username=Dhruvin_Savla&theme=github_dark&force_username=true&border_color=404040" alt="Queue Codeforces Stats"  />
+</a> 
+
+</details>
+
+<details><summary><h3>LeetCode</h3></summary>
+
+----
+
+<a href="https://codeforces.com/profile/Dhruvin_Savla">
+<img src="https://leetcard.jacoblin.cool/Dhruvin_Savla?ext=heatmap">
+</a> 
+
+</details>
+
+<br>
+
+<h3> <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30px" height="30px"> My Skills </h3>
+ <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Programming languages
 
@@ -133,15 +155,16 @@
 
 <br> 
 
----
-
+--- 
+<br>
 <p align = "center">
 	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
 </p>
 
-## <picture> <img src = "https://private-user-images.githubusercontent.com/74038190/243078651-2c0eef4b-7b75-42bd-9722-4bea97a2d532.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTc1NzE1ODksIm5iZiI6MTcxNzU3MTI4OSwicGF0aCI6Ii83NDAzODE5MC8yNDMwNzg2NTEtMmMwZWVmNGItN2I3NS00MmJkLTk3MjItNGJlYTk3YTJkNTMyLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA2MDUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNjA1VDA3MDgwOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWQ1MDQ5MTNkZDRhZGY0ZTg5NTg3ZWQ5NjdmYTY1YWMyMmYwZTg3YWRlYzY3MDQ1MjQwNGMxNWJlMjJjY2U0NGYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.gbL7-Vx8JLcTmxrFFmIuZ8PlCo4oEurTEl03DjKh65Y" width = 50px>  </picture> Github Stats
+<h3><picture> <img src = "https://private-user-images.githubusercontent.com/74038190/243078651-2c0eef4b-7b75-42bd-9722-4bea97a2d532.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTc1NzE1ODksIm5iZiI6MTcxNzU3MTI4OSwicGF0aCI6Ii83NDAzODE5MC8yNDMwNzg2NTEtMmMwZWVmNGItN2I3NS00MmJkLTk3MjItNGJlYTk3YTJkNTMyLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA2MDUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNjA1VDA3MDgwOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWQ1MDQ5MTNkZDRhZGY0ZTg5NTg3ZWQ5NjdmYTY1YWMyMmYwZTg3YWRlYzY3MDQ1MjQwNGMxNWJlMjJjY2U0NGYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.gbL7-Vx8JLcTmxrFFmIuZ8PlCo4oEurTEl03DjKh65Y" width = 50px>  </picture> Github Stats</h3>
+ <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
-<details><summary><h3> 🔥 Streak Stats</h3></summary>
+<details><summary><h3> <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="20px" height="20px"> Streak Stats</h3></summary>
 
 ----	
 
@@ -163,11 +186,22 @@
   </p>
 </details>
 
+<details><summary> <h3> :trophy: Git profile Trophies </h3></summary>
+
+----
+	
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Dhruvin151104&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="Dhruvin" /></a> </p>
+
+	
+</details>
+
 	
 
 </br></br>
 	
-## 🐍 A Snake Eating my Contributions Graph
+<h3> 🐍 A Snake Eating my Contributions Graph </h3>
+ <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
 	
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
